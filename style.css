@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+   background-color: black;
+   width:1349px;
+   height: 70px;
+}
+
+h2{
+ 
+}
+
+table, td, th {
+   border: 1px solid;
+}
+
+table {
+   width: auto;
+   border-collapse: collapse;
+   margin-top: 65px;
+}
+
+.table1{
+   margin-bottom: 65px;
+   
+}
+
+.table2 .eng{
+   margin-left: 120px;
+   margin-right: 120px;
+}
+
+.number{
+   padding: 10px;
+}
+
+.dialoge{
+   padding: 10px;
+}
+
+.audio{
+   width: 45px;
+}
+
+.blank{
+   margin-bottom: 200px;
+}
+
+tr:nth-child(even) {background-color: #acacac;}
